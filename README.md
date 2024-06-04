@@ -2,7 +2,7 @@
 Overview:
 Our service provides a seamless transition from the legacy UPS API to the latest UPS REST API interface. Leveraging the new RESTful capabilities, we ensure enhanced performance, improved security, and access to the latest features offered by UPS.
 
-Key Features:
+### Key Features:
 
 Seamless Migration:
 
@@ -32,7 +32,8 @@ Ongoing Support and Maintenance:
 
 Continuous support to address any issues or updates needed after the migration.
 Regular maintenance to keep your integration up-to-date with UPS API changes.
-Benefits:
+
+### Benefits:
 
 Increased Efficiency: Streamlined operations with faster and more reliable API interactions.
 Future-Proofing: Stay ahead with access to the latest features and improvements from UPS.
